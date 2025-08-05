@@ -13,7 +13,7 @@ Este repositório contém o desenvolvimento de um pipeline completo de ML e Deep
 
 - [Visão Geral](#-visão-gearal)
 - [Dataset](#-dataset)
-- [Tecnologias Utilizadas](#-Tecnologias Utilizadas)
+- [Tecnologias Utilizadas](#-Tecnologias-Utilizadas)
 - [Resultados e Análise](#-Resultados-e-análise)
 - [Otimização](\#-otimização)
 - [Licença](#-Licença)
